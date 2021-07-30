@@ -1,0 +1,9 @@
+# Ide configurations
+.vs/
+.vscode/
+.idea/
+.vim/
+
+# Rust
+**/target/
+Cargo.lock
